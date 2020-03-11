@@ -1,5 +1,7 @@
 .my-background {
     background-color: lightgray;
+    background-image: url("../Images/Background-gray-textured.jpg");
+    background-repeat: round;
 }
 
 .my-navbar {
