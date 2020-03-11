@@ -7,7 +7,8 @@
 .my-navbar {
     background-color: white;
     padding: 0 20px 0 20px;
-    /* position: fixed; */
+    position: fixed;
+    z-index: 99;
     top: 0;
     left: 0;
     width: 100%;
@@ -27,6 +28,8 @@
 
 .my-container {
     background-color: white;
+    position: relative;
+    top: 50px;
     margin-top: 50px;
     width: 80%;
 }
