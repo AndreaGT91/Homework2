@@ -1,0 +1,81 @@
+.my-background {
+    background-color: lightgray;
+}
+
+.my-navbar {
+    background-color: white;
+    padding: 0 20px 0 20px;
+    /* position: fixed; */
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.my-brand {
+    background-color: skyblue;
+    color: white;
+    font-family: serif;
+    padding: 10px 20px 10px 20px;
+    margin: 0 0 0 20px;
+}
+
+.my-navbar-links {
+    color: gray;
+}
+
+.my-container {
+    background-color: white;
+    margin-top: 50px;
+    width: 80%;
+}
+
+.my-h1 {
+    color: skyblue;
+    font-family: serif;
+    padding-top: 20px;
+}
+
+.my-image {
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 20px;
+}
+
+.my-para {
+    color: gray;
+}
+
+.my-row {
+    padding-bottom: 20px;   
+}
+
+.my-btn {
+    background-color: skyblue;
+    border-width: 0;
+    margin-bottom: 20px;
+}
+
+.my-label {
+    color: rgb(99, 99, 99);
+}
+
+.my-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.my-footer-text {
+    color: white;
+    flex-shrink: 0;
+}
+
+.my-footer-hr {
+    position: relative;
+    top: -20px;
+    background-color: skyblue;
+    height: 5px;
+}
